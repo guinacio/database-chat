@@ -72,7 +72,7 @@ The application queries a SQLite database (`data/clientes_completo.db`) containi
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/guinacio/database-chat.git
    cd database-chat
    ```
 
