@@ -152,6 +152,10 @@ class AgentState(TypedDict):
     needs_visualization: bool
 ```
 
+### Workflow Graph
+
+![Workflow Graph](workflow_graph.png)
+
 ### Visualization Execution
 
 Generated matplotlib code runs in a restricted execution context with:
